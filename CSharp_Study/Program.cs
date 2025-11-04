@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 
 namespace CSharp_Study
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
+            String a;
+            a = Console.ReadLine();
+            Console.WriteLine("Вы написали: " + a);
         }
     }
 }
