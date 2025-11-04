@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassConvert", "ClassConver
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parse_TryParse_String", "Parse_TryParse_String\Parse_TryParse_String.csproj", "{0D67A7AD-3BDC-4F8C-86DD-EE6EA8F84157}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticOperations", "ArithmeticOperations\ArithmeticOperations.csproj", "{48177B77-5E9B-4BA0-8752-C65107022ADE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0D67A7AD-3BDC-4F8C-86DD-EE6EA8F84157}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D67A7AD-3BDC-4F8C-86DD-EE6EA8F84157}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D67A7AD-3BDC-4F8C-86DD-EE6EA8F84157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48177B77-5E9B-4BA0-8752-C65107022ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48177B77-5E9B-4BA0-8752-C65107022ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48177B77-5E9B-4BA0-8752-C65107022ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48177B77-5E9B-4BA0-8752-C65107022ADE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
