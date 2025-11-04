@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36623.8 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console.ReadLine", "CSharp_Study\Console.ReadLine.csproj", "{B16DF771-9E31-476A-9F1E-50600261AF10}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Console.ReadLine", "CSharp_Study\2_Console.ReadLine.csproj", "{B16DF771-9E31-476A-9F1E-50600261AF10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassConvert", "ClassConvert\ClassConvert.csproj", "{E1679434-58D4-4C8E-BA29-AC5F77F791BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_ClassConvert", "ClassConvert\1_ClassConvert.csproj", "{E1679434-58D4-4C8E-BA29-AC5F77F791BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parse_TryParse_String", "Parse_TryParse_String\Parse_TryParse_String.csproj", "{0D67A7AD-3BDC-4F8C-86DD-EE6EA8F84157}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Parse_TryParse_String", "Parse_TryParse_String\3_Parse_TryParse_String.csproj", "{0D67A7AD-3BDC-4F8C-86DD-EE6EA8F84157}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticMeanTwoNumbers", "ArithmeticOperations\ArithmeticMeanTwoNumbers.csproj", "{48177B77-5E9B-4BA0-8752-C65107022ADE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.1.1_ArithmeticMeanTwoNumbers", "ArithmeticOperations\8.1.1_ArithmeticMeanTwoNumbers.csproj", "{48177B77-5E9B-4BA0-8752-C65107022ADE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadThreeNumbersAndWriteSummMulti", "ReadThreeNumbersAndWriteSummMulti\ReadThreeNumbersAndWriteSummMulti.csproj", "{0B55AF27-AFBD-420B-8BD8-3733A9343127}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.1.2_ReadThreeNumbersAndWriteSummMulti", "ReadThreeNumbersAndWriteSummMulti\8.1.2_ReadThreeNumbersAndWriteSummMulti.csproj", "{0B55AF27-AFBD-420B-8BD8-3733A9343127}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertValut", "ConvertValut\ConvertValut.csproj", "{CC41A73B-0FF6-469B-8823-2BB8E6165CA2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.1.3_ConvertValut", "ConvertValut\8.1.3_ConvertValut.csproj", "{CC41A73B-0FF6-469B-8823-2BB8E6165CA2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
