@@ -120,8 +120,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ArithmeticalOperation.Tests\arithmeticMeanTwoNumbersTests.cs" />
-    <Compile Include="ArithmeticOperations\arithmeticMeanTwoNumbers.cs" />
+    <Compile Include="ArithmeticalOperation.Tests\ArithmeticMeanTwoNumbersTests.cs" />
+    <Compile Include="ArithmeticOperations\ArithmeticMeanTwoNumbers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

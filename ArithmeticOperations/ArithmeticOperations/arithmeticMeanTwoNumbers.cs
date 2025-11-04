@@ -7,16 +7,16 @@ using System.Threading.Tasks;
 namespace ArithmeticOperations
 {
 
-    public class arithmeticMeanTwoNumbers
+    public class ArithmeticMeanTwoNumbers
     {
         private double a;
         private double b;
-        public arithmeticMeanTwoNumbers()
+        public ArithmeticMeanTwoNumbers()
         {
             this.a = 0;
             this.b = 0;
         }
-        public arithmeticMeanTwoNumbers(double userA, double userB)
+        public ArithmeticMeanTwoNumbers(double userA, double userB)
         {
             if (userA == 0 || userB == 0)
                 throw new ArgumentNullException();

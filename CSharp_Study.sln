@@ -9,7 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassConvert", "ClassConver
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parse_TryParse_String", "Parse_TryParse_String\Parse_TryParse_String.csproj", "{0D67A7AD-3BDC-4F8C-86DD-EE6EA8F84157}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticOperations", "ArithmeticOperations\ArithmeticOperations.csproj", "{48177B77-5E9B-4BA0-8752-C65107022ADE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticMeanTwoNumbers", "ArithmeticOperations\ArithmeticMeanTwoNumbers.csproj", "{48177B77-5E9B-4BA0-8752-C65107022ADE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadThreeNumbersAndWriteSummMulti", "ReadThreeNumbersAndWriteSummMulti\ReadThreeNumbersAndWriteSummMulti.csproj", "{0B55AF27-AFBD-420B-8BD8-3733A9343127}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertValut", "ConvertValut\ConvertValut.csproj", "{CC41A73B-0FF6-469B-8823-2BB8E6165CA2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{48177B77-5E9B-4BA0-8752-C65107022ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48177B77-5E9B-4BA0-8752-C65107022ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48177B77-5E9B-4BA0-8752-C65107022ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B55AF27-AFBD-420B-8BD8-3733A9343127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B55AF27-AFBD-420B-8BD8-3733A9343127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B55AF27-AFBD-420B-8BD8-3733A9343127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B55AF27-AFBD-420B-8BD8-3733A9343127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC41A73B-0FF6-469B-8823-2BB8E6165CA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC41A73B-0FF6-469B-8823-2BB8E6165CA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC41A73B-0FF6-469B-8823-2BB8E6165CA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC41A73B-0FF6-469B-8823-2BB8E6165CA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,14 +4,14 @@
 namespace ArithmeticOperations.ArithmeticalOperation.Tests
 {
     [TestFixture]
-    public class arithmeticMeanTwoNumbersTests
+    public class ArithmeticMeanTwoNumbersTests
     {
-        private arithmeticMeanTwoNumbers testFormulSolver;
+        private ArithmeticMeanTwoNumbers testFormulSolver;
 
         [SetUp]
         public void SetUp()
         {
-            testFormulSolver = new arithmeticMeanTwoNumbers();
+            testFormulSolver = new ArithmeticMeanTwoNumbers();
         }
 
         [Test]
