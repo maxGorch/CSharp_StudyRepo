@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console.ReadLine", "CSharp_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassConvert", "ClassConvert\ClassConvert.csproj", "{E1679434-58D4-4C8E-BA29-AC5F77F791BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parse_TryParse_String", "Parse_TryParse_String\Parse_TryParse_String.csproj", "{0D67A7AD-3BDC-4F8C-86DD-EE6EA8F84157}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E1679434-58D4-4C8E-BA29-AC5F77F791BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1679434-58D4-4C8E-BA29-AC5F77F791BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1679434-58D4-4C8E-BA29-AC5F77F791BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D67A7AD-3BDC-4F8C-86DD-EE6EA8F84157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D67A7AD-3BDC-4F8C-86DD-EE6EA8F84157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D67A7AD-3BDC-4F8C-86DD-EE6EA8F84157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D67A7AD-3BDC-4F8C-86DD-EE6EA8F84157}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
